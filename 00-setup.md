@@ -69,17 +69,4 @@ Labs **1**, **2**, **4** and **8** require a Docker Hub account to complete them
 
 	You can't log into Docker Hub until you first confirm your credentials.
 
-## Choose a Lab
 
-* [Introduction to Docker](01-docker-introduction.md)
-* [Docker Orchestration](02-orchestration.md)
-* [Docker Trusted Registry](03-dtr.md)
-* [Tutum: Provision, Deploy, Manage](04-tutum-basics.md)
-* [Docker Content Trust](05-content-trust.md)
-* [Docker Networking](06-networking.md)
-* [Understanding Docker Volumes](07-volumes.md)
-* [Automated Builds with Docker Hub and GitHub](08-Automated-builds.md)
-* [Continuous Integration and Continious Delivery(CICD) with Docker, GitHub, and Jenkins](09-cicd-with-docker.md)
-* [Logging and Monitoring using ELK](10-logging-and-monitoring.md)
-* [Infrastructure as code - Dockerfile best practices](11-infrastructure-as-code.md)
-* [Docker Universal Control Plane](12-ducp.md)
